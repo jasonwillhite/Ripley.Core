@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5h0gVrDn05Dhx13sDIgrWz384wOAP961Es2rhhEV8PSri0u2QZaGrKWbkQakQzBhhFBPiJu6hVZt01Y6v45+1A==",
+  "success": true,
+  "projectFilePath": "/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/Ripley.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/Willhites/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/Willhites/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

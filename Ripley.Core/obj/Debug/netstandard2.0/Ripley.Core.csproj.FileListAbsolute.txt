@@ -1,0 +1,9 @@
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/bin/Debug/netstandard2.0/Ripley.Core.deps.json
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/bin/Debug/netstandard2.0/Ripley.Core.dll
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/bin/Debug/netstandard2.0/Ripley.Core.pdb
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/obj/Debug/netstandard2.0/Ripley.Core.csprojAssemblyReference.cache
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/obj/Debug/netstandard2.0/Ripley.Core.AssemblyInfoInputs.cache
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/obj/Debug/netstandard2.0/Ripley.Core.AssemblyInfo.cs
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/obj/Debug/netstandard2.0/Ripley.Core.csproj.CoreCompileInputs.cache
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/obj/Debug/netstandard2.0/Ripley.Core.dll
+/Users/Willhites/Projects/github/Ripley.Core/Ripley.Core/obj/Debug/netstandard2.0/Ripley.Core.pdb
